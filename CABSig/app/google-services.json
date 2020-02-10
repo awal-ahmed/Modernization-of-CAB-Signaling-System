@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71361685906",
+    "firebase_url": "https://cabsig.firebaseio.com",
+    "project_id": "cabsig",
+    "storage_bucket": "cabsig.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71361685906:android:fa34aeb7e3b00767a6394b",
+        "android_client_info": {
+          "package_name": "com.example.mrz.cabsig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71361685906-j91qr1uhbt8uhvpmh7eo47f0a4hs06bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mrz.cabsig",
+            "certificate_hash": "3dfec715b106ab06409ff9b39db90c4da31812bb"
+          }
+        },
+        {
+          "client_id": "71361685906-rmghetavujjviebfbb69qut8b2t8tr9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK1KCF_dIAFoRpFuvv2LODHnABI_4o9EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71361685906-rmghetavujjviebfbb69qut8b2t8tr9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
